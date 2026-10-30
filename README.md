@@ -1,20 +1,20 @@
 # 사령전선 한국어 패치 v1.0.0
 
-PC Engine 일본판 **사령전선(死霊戦線 / Shiryou Sensen)**용 비공식 한국어 패치입니다. 이 묶음은 정식판 **v1.0.0**의 배포 파일입니다.
+PC Engine 일본판 사령전선(死霊戦線 / Shiryou Sensen)용 비공식 한국어 패치입니다. 이 묶음은 정식판 **v1.0.0**의 배포 파일입니다.
 
 ## 다운로드
 
 비공개 저장소이므로 접근 권한이 있는 GitHub 계정으로 로그인해 주세요.
 
-**[패치 ZIP 다운로드](https://github.com/kilk96/shiryou-sensen-korean-patch/releases/tag/v1.0.0)**에서 **`Shiryou_Sensen_KO_v1.0.0.zip`**을 받아 압축을 풀어 주세요.
+[패치 ZIP 다운로드](https://github.com/kilk96/shiryou-sensen-korean-patch/releases/tag/v1.0.0)에서 `Shiryou_Sensen_KO_v1.0.0.zip`을 받아 압축을 풀어 주세요.
 
 원본 게임 파일과 패치 적용이 끝난 게임 파일은 제공하지 않습니다. [이번 버전의 변경 내역](https://github.com/kilk96/shiryou-sensen-korean-patch/releases/tag/v1.0.0)도 함께 확인하실 수 있습니다.
 
 ## 적용 방법
 
-1. 직접 보유하신 **헤더 없는 PC Engine 일본판 원본 `.pce`**와 기존 세이브를 백업하고, 아래 **지원 원본과 파일 확인**의 크기·SHA-256을 확인해 주세요.
+1. 직접 보유하신 헤더 없는 PC Engine 일본판 원본 `.pce`와 기존 세이브를 백업하고, 아래 **지원 원본과 파일 확인**의 크기·SHA-256을 확인해 주세요.
 2. **xdelta3 3.2.0 호환 패처**에서 원본 파일과 `Shiryou_Sensen_KO_v1.0.0.xdelta`를 선택해 주세요. 이 패치는 3.2 형식의 파일 검증 기능을 사용하므로, 구형 xdelta가 내장된 적용 도구에서는 사용할 수 없습니다.
-3. 결과를 원본과 다른 이름의 **`Shiryou_Sensen_KO.pce`**로 저장하고 아래 결과 SHA-256과 비교해 주세요. 이전 한국어 패치를 이용하셨더라도 이번 패치는 지원 일본판 원본에 적용해 주세요.
+3. 결과를 원본과 다른 이름의 `Shiryou_Sensen_KO.pce`로 저장하고 아래 결과 SHA-256과 비교해 주세요. 이전 한국어 패치를 이용하셨더라도 이번 패치는 지원 일본판 원본에 적용해 주세요.
 4. 결과 파일을 PC Engine 에뮬레이터에서 새로 실행해 주세요. 확인한 환경은 **Mesen 2.2.1**입니다.
 
 자세한 명령줄 적용 방법은 ZIP 안의 `README.md`를 참고해 주세요.
